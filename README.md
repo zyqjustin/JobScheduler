@@ -6,5 +6,5 @@ JobScheduler是一款轻量级的任务调度框架，主要解决任务依赖�
 //TODO
 # 帮助
 Email: zyqqq1024@163.com
-blog: http://my.oschina.net/zyqjustin/blog
+blog: http://my.oschina.net/zyqjustin/blog <br>
 欢迎项目交流
